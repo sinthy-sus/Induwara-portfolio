@@ -30,6 +30,6 @@ This modern, responsive developer portfolio highlights academic background, tech
 ## 📬 Contact
 
 
-- **Github**: [https://github.com/sinthy-sus](https://github.com/sinthy-sus))
+- **Github**: [https://github.com/sinthy-sus](https://github.com/sinthy-sus)
 - **LinkedIn**: [linkedin.com/in/induwara-anupriya-5b6223296](https://www.linkedin.com/in/induwara-anupriya-5b6223296)
 - **Location**: Galle, Sri Lanka

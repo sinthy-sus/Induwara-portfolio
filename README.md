@@ -30,6 +30,8 @@ This modern, responsive developer portfolio highlights academic background, tech
 ## 📬 Contact
 
 
+- **Name**: Induwara Anupriya
+- **Role**: Aspiring Dev-Ops Engineer| Software Technology Student at University of Vocational Technology
 - **Github**: [https://github.com/sinthy-sus](https://github.com/sinthy-sus)
 - **LinkedIn**: [linkedin.com/in/induwara-anupriya-5b6223296](https://www.linkedin.com/in/induwara-anupriya-5b6223296)
 - **Location**: Galle, Sri Lanka

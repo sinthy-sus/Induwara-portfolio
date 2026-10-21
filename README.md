@@ -24,8 +24,7 @@ This modern, responsive developer portfolio highlights academic background, tech
 - **Document Viewing**: [react-pdf](https://github.com/wojtekmaj/react-pdf)
 - **Routing**: [React Router](https://reactrouter.com/) (v6)
 
-## 💻 Live Demo - [https://sinthy-sus.github.io/](https://sinthy-sus.github.io/)
-
+## 💻 Live Demo - [https://sinthy-sus.github.io/Induwara-portfolio/](https://sinthy-sus.github.io/Induwara-portfolio/)
 
 ## 📬 Contact
 

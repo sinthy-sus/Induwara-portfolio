@@ -24,42 +24,11 @@ This modern, responsive developer portfolio highlights academic background, tech
 - **Document Viewing**: [react-pdf](https://github.com/wojtekmaj/react-pdf)
 - **Routing**: [React Router](https://reactrouter.com/) (v6)
 
-## 💻 Local Development on macOS
+## 💻 Live Demo - [https://sinthy-sus.github.io/](https://sinthy-sus.github.io/)
 
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v16+ or LTS recommended)
-- `npm`
-
-### Setup Steps
-
-1. Navigate to the project directory:
-   ```bash
-   cd /Users/induwaraanupriya/Downloads/Portfolio-master
-   ```
-
-2. Install dependencies (if not already installed):
-   ```bash
-   npm install
-   ```
-
-3. Start the local development server:
-   ```bash
-   npm start
-   ```
-
-4. Open your browser and navigate to:
-   ```
-   http://localhost:3000
-   ```
-
-### Production Build
-To create an optimized production build:
-```bash
-npm run build
-```
 
 ## 📬 Contact
 
-- **Email**: [induwarapathirane@gmail.com](mailto:induwarapathirane@gmail.com)
+- **Github**: [https://github.com/sinthy-sus](https://github.com/sinthy-sus))
 - **LinkedIn**: [linkedin.com/in/induwara-anupriya-5b6223296](https://www.linkedin.com/in/induwara-anupriya-5b6223296)
 - **Location**: Galle, Sri Lanka

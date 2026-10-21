@@ -23,10 +23,12 @@ This modern, responsive developer portfolio highlights academic background, tech
 - **Visual Effects**: [react-tsparticles](https://particles.js.org/), [typewriter-effect](https://github.com/tameemsafi/typewriterjs), [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
 - **Document Viewing**: [react-pdf](https://github.com/wojtekmaj/react-pdf)
 - **Routing**: [React Router](https://reactrouter.com/) (v6)
+  
 
 ## 💻 Live Demo - [https://sinthy-sus.github.io/Induwara-portfolio/](https://sinthy-sus.github.io/Induwara-portfolio/)
 
 ## 📬 Contact
+
 
 - **Github**: [https://github.com/sinthy-sus](https://github.com/sinthy-sus))
 - **LinkedIn**: [linkedin.com/in/induwara-anupriya-5b6223296](https://www.linkedin.com/in/induwara-anupriya-5b6223296)
